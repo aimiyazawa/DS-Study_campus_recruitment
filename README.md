@@ -18,6 +18,10 @@ Questions
 - Which degree specialization is much demanded by corporate?
 - Play with the data conducting all statistical tests.
 
+
+--------
+
 My goal
 
+- Visualize data and identiry critical features 
 - Build a regression ML model and evaluate the model
