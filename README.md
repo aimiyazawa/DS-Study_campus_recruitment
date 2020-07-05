@@ -17,3 +17,7 @@ Questions
 - Does percentage matters for one to get placed?
 - Which degree specialization is much demanded by corporate?
 - Play with the data conducting all statistical tests.
+
+My goal
+
+- Build a regression ML model and evaluate the model
