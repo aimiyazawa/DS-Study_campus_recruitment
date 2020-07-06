@@ -1,7 +1,7 @@
 # Hello! 👋
 
 
-👩‍💻 
+👩‍💻 <br>
 I am a UX designer, currently working in the enterprise data science product team. 
 In order to understand how my users work on their projects and its workflow, pain points and such, I decided to learn Python and Data science on my own. 
 I am a super beginner, but having fun with this learning experience! 
