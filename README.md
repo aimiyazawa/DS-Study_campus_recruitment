@@ -1,9 +1,17 @@
+# Hello!
+
+I am a UX designer, currently working in the enterprise data science product team. 
+In order to understand how my users work on their projects and its workflow, pain points and such, I decided to learn Python and Data science on my own. 
+I am a super beginner, but having fun with this learning experience! 
+
+
+--------
+
 # campus_recruitment_DSstudy
-Data science learning 
 
-dataset from Kaggle https://www.kaggle.com/benroshan/factors-affecting-campus-placement
+This dataset if from Kaggle https://www.kaggle.com/benroshan/factors-affecting-campus-placement
 
-Copy from Kaggle description
+Copy from Kaggle's description:
 
 Hello My name is Ben Roshan D, doing MBA in Business Analytics at Jain University Bangalore . We have practical sessions in Python,R as subjects. Faculties provide us with such data sets to work on with it, So here is one of the data set which our class worked on
 
@@ -21,7 +29,9 @@ Questions
 
 --------
 
-My goal
+My study goal
 
 - Visualize data and identiry critical features 
 - Build a regression ML model and evaluate the model
+
+I will annotate my intent and interpritation. 
