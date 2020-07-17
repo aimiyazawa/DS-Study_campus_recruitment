@@ -2,8 +2,8 @@
 
 
 👩‍💻 <br>
-I am a UX designer, currently working in the enterprise data science product team. 
-In order to understand how my users work on their projects and its workflow, pain points and such, I decided to learn Python and Data science on my own. 
+I am a UX designer, currently working at the enterprise data science product team. 
+In order to understand how my users work on their projects, workflow, pain points and such, I decided to learn Python and Data science as well. 
 I am a super beginner, but having fun with this learning experience! 
 
 
@@ -36,4 +36,4 @@ My study goal
 - Visualize data and identiry critical features 
 - Build a regression ML model and evaluate the model
 
-I will annotate my intent and interpritation. 
+I will annotate my intent and thoughts. 
